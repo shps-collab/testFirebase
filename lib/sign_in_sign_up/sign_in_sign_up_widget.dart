@@ -159,7 +159,7 @@ class _SignInSignUpWidgetState extends State<SignInSignUpWidget>
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         32.0, 0.0, 0.0, 0.0),
                                     child: Text(
-                                      'brand.ai',
+                                      'Pet and Playground Products',
                                       style: FlutterFlowTheme.of(context)
                                           .headlineMedium
                                           .override(
